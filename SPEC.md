@@ -469,7 +469,7 @@ Plugins can return one of three result types:
 
 - _Success_ (or _Abbreviated Success_)
 - _Error_
-- _Version_
+- _Version
 
 ### Success
 
